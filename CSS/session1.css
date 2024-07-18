@@ -1,0 +1,57 @@
+/* select with html tag */
+/* #para-1 {
+    color: blue;
+}
+
+
+p{
+    color: red !important;
+} */
+
+/* select with class name */
+/* .para-color{
+    color: green !important;
+} */
+
+/* .para-text{
+    font-size: 24px;
+} */
+
+
+/* html tag   1 */
+/* class      100*/
+/* id         1000*/
+/* inline     10000*/
+/* important  100000 */
+
+/* 201 */
+/* .header .header-main h1{
+    color: blueviolet; 
+} */
+/* 1100 */
+/* .header-main #txt{
+    color: blue ;
+} */
+
+
+
+/* h1.header-text{
+    color: blue;
+} */
+ /* h1,h2,h3{
+    color: red;
+ } */
+
+
+/* pseudo class selectors */
+/* div:first-child{
+    background: green;
+} */
+
+
+/* p:nth-child(3){
+    color: red;
+} */
+
+
+

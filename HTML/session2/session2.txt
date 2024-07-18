@@ -1,0 +1,44 @@
+Table:
+https://www.w3schools.com/html/html_tables.asp
+
+List:
+https://www.w3schools.com/html/html_lists.asp
+
+Paragraph:
+https://www.w3schools.com/html/html_paragraphs.asp
+
+Formatting tags:
+https://www.w3schools.com/html/html_formatting.asp
+
+Image map:
+https://www.w3schools.com/html/html_images_imagemap.asp
+
+Picture tag:
+https://www.w3schools.com/html/html_images_picture.asp
+
+Fav icon:
+https://www.w3schools.com/html/html_favicon.asp
+
+Iframe:
+https://www.w3schools.com/html/html_iframe.asp
+
+Head:
+https://www.w3schools.com/html/html_head.asp
+
+Computer code:
+https://www.w3schools.com/html/html_computercode_elements.asp
+
+Semantic tags:
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+Symbols:
+https://www.w3schools.com/html/html_symbols.asp
+
+Video:
+https://www.w3schools.com/html/html5_video.asp
+
+Audio:
+https://www.w3schools.com/html/html5_audio.asp
+
+YouTube video:
+https://www.w3schools.com/html/html_youtube.asp 
